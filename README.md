@@ -1,7 +1,7 @@
 # The Dataset  provided by the Skill Academy contains information about orders from an online store i.e Amazing Mart Dataset.     
 
 The Dataset includes the following columns:
-
+<pre>
 Order Date: The date the order was placed.
 Customer Name: The name of the customer who placed the order.
 City: The city where the customer lives.
@@ -20,3 +20,4 @@ Profit: The profit made on the order.
 Quantity: The quantity of products that were ordered.
 Category: The category of the product (e.g., Office Supplies, Furniture, and Technology, etc.).
 Sub-Category: The sub-category of the product (e.g., Paper,Bookcases,Machines, etc.).
+</pre>
