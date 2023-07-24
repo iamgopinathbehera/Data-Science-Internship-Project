@@ -30,8 +30,8 @@ Sub-Category: The sub-category of the product (e.g., Paper,Bookcases,Machines, e
 ![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)
 # Predictor App
 
-A Web App Deployed on Streamlit Cloud ,That Predicts Car Price.
-You can try out this app [here.](https://iamgopinathbehera-data-science-capstone-project-app-jbazy8.streamlit.app/)
+A Web App Deployed on Streamlit Cloud ,That Predicts Profits.
+You can try out this app [here.](https://data-science-internship-project-4.streamlit.app/)
 
 ### Project Overview
  
