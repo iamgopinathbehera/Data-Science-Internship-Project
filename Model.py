@@ -1,6 +1,5 @@
 import pandas as pd   # Data Preprocessing
 import numpy as np    # Mathematical Computation
-import sklearn
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeClassifier
